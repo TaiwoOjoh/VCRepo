@@ -12,6 +12,7 @@ namespace VC2
             int num2 = Int32.Parse(Console.ReadLine());
             int result = num1 + num2;
             Console.WriteLine(result);
+            Console.WriteLine("That is all");
         }
     }
 }
