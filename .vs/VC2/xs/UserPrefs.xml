@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5E4D4877-633D-49F4-A4AF-295F76A0C81C}|Default">
+  <MonoDevelop.Ide.ItemProperties.VC2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VC2/Program.cs">
+    <Files>
+      <File FileName="VC2/Program.cs" Line="2" Column="1" />
+      <File FileName="VC2/NewClass.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
