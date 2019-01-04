@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.VC2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="VC2/Program.cs">
     <Files>
-      <File FileName="VC2/Program.cs" Line="2" Column="1" />
+      <File FileName="VC2/Program.cs" Line="16" Column="10" />
       <File FileName="VC2/NewClass.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
